@@ -240,6 +240,4 @@ Through this project, the goal is to understand:
 - Add configurable limits and window sizes.
 - Compare memory usage and algorithm behavior under different workloads.
 
-## License
 
-This project is intended for learning and experimentation. Add a license file if you plan to distribute it publicly.
